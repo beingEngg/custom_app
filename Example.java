@@ -1,3 +1,4 @@
+import java.io.*;
 class Example{
 double l;
 double b;
@@ -16,4 +17,5 @@ double perimeter;
     double getPerimeter(){
     return area;
    }
+   System.out.println(area);
 }
