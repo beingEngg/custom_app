@@ -1,8 +1,5 @@
 class Example{
-double l;
-double b;
-double area;
-double perimeter;
+
 
    void findArea(double l,double b){
        this.area=l*b;    
